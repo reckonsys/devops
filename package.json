@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@marp-team/marp-cli": "^0.6.2",
+    "@marp-team/marpit": "^0.7.2"
+  }
+}
